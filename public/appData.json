@@ -1,0 +1,266 @@
+[
+{
+    "image": "https://picsum.photos/seed/photoeditorpro/300/300",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelSoft",
+    "id": 1,
+    "description": "Photo Editor Pro is a powerful, all-in-one photo editing app built for creators who want professional-grade results without the learning curve. It comes packed with AI-powered filters that automatically enhance lighting, color balance, and skin tones, along with precision cropping, adjustable blur effects, and a rich set of color enhancement tools. Whether you're touching up a quick selfie or preparing images for a portfolio, the intuitive layer-based editor lets you fine-tune every detail. Regular updates bring new presets, filters, and export options for social media, print, and web.",
+    "size": 45,
+    "reviews": "12.5k",
+    "ratingAvg": 4.7,
+    "downloads": "850K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 250
+      },
+      {
+        "name": "3 star",
+        "count": 680
+      },
+      {
+        "name": "4 star",
+        "count": 3240
+      },
+      {
+        "name": "5 star",
+        "count": 8190
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/musicplayerx/300/300",
+    "title": "Music Player X",
+    "companyName": "SoundWave",
+    "id": 2,
+    "description": "Music Player X delivers a premium offline listening experience with a beautifully designed interface built for audiophiles and casual listeners alike. Create unlimited playlists, fine-tune your sound with a 10-band equalizer, and enjoy crystal-clear high-quality audio playback even without an internet connection. The app supports gapless playback, smart shuffle, and customizable themes so your music library always feels personal. Background playback, sleep timers, and widget support make it a reliable daily companion for every mood and moment.",
+    "size": 32,
+    "reviews": "9.9k",
+    "ratingAvg": 4.5,
+    "downloads": "1.2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 180
+      },
+      {
+        "name": "2 star",
+        "count": 340
+      },
+      {
+        "name": "3 star",
+        "count": 710
+      },
+      {
+        "name": "4 star",
+        "count": 2960
+      },
+      {
+        "name": "5 star",
+        "count": 5680
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/weathernow/300/300",
+    "title": "Weather Now",
+    "companyName": "SkyTech",
+    "id": 3,
+    "description": "Weather Now keeps you a step ahead of the elements with real-time forecasts, minute-by-minute precipitation tracking, and detailed hourly and 10-day outlooks. Severe weather alerts are pushed instantly so you're never caught off guard by storms, heatwaves, or sudden temperature drops. Interactive radar maps, air quality indices, and UV index readings give you a complete picture of conditions in your area and anywhere else in the world. Clean visuals and customizable widgets make checking the weather effortless.",
+    "size": 28,
+    "reviews": "7.5k",
+    "ratingAvg": 4.4,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 140
+      },
+      {
+        "name": "2 star",
+        "count": 310
+      },
+      {
+        "name": "3 star",
+        "count": 590
+      },
+      {
+        "name": "4 star",
+        "count": 2350
+      },
+      {
+        "name": "5 star",
+        "count": 4130
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/taskmanager/300/300",
+    "title": "Task Manager",
+    "companyName": "DailyApps",
+    "id": 4,
+    "description": "Task Manager is a clean, distraction-free productivity app designed to help you organize daily tasks, set smart reminders, and stay on top of deadlines. Group tasks into projects, set priority levels, and use recurring reminders for habits and routines you want to build. A minimal, intuitive interface keeps the focus on getting things done rather than fighting with the app. Sync across devices ensures your to-do list is always up to date, wherever you are.",
+    "size": 18,
+    "reviews": "5.8k",
+    "ratingAvg": 4.6,
+    "downloads": "3.8M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 90
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 430
+      },
+      {
+        "name": "4 star",
+        "count": 1820
+      },
+      {
+        "name": "5 star",
+        "count": 3320
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/videoplayerhd/300/300",
+    "title": "Video Player HD",
+    "companyName": "MediaCore",
+    "id": 5,
+    "description": "Video Player HD is a versatile media player that plays virtually every video format without the need for extra codecs or conversions. Enjoy built-in subtitle support with automatic syncing, intuitive gesture controls for brightness and volume, and hardware-accelerated decoding for smooth 4K playback even on modest devices. Background audio mode, floating window playback, and customizable playback speed give you full control over how you watch. It's the reliable go-to player for movies, downloaded shows, and personal video collections.",
+    "size": 41,
+    "reviews": "13.6k",
+    "ratingAvg": 4.8,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 110
+      },
+      {
+        "name": "2 star",
+        "count": 220
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 2950
+      },
+      {
+        "name": "5 star",
+        "count": 9680
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/smartcalculator/300/300",
+    "title": "Smart Calculator",
+    "companyName": "CalcTech",
+    "id": 6,
+    "description": "Smart Calculator reimagines the everyday calculator with a modern, clutter-free design and powerful scientific functions for students, engineers, and professionals. Keep a running history of your calculations, switch between dozens of unit conversions instantly, and personalize the interface with a variety of sleek themes. Advanced functions like trigonometry, logarithms, and equation solving sit right alongside the basics, so you never need a second app. It's fast, accurate, and built to handle everything from quick arithmetic to complex formulas.",
+    "size": 15,
+    "reviews": "4.4k",
+    "ratingAvg": 4.3,
+    "downloads": "7.5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 130
+      },
+      {
+        "name": "2 star",
+        "count": 220
+      },
+      {
+        "name": "3 star",
+        "count": 520
+      },
+      {
+        "name": "4 star",
+        "count": 1430
+      },
+      {
+        "name": "5 star",
+        "count": 2080
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/fitnesstracker/300/300",
+    "title": "Fitness Tracker",
+    "companyName": "HealthPlus",
+    "id": 7,
+    "description": "Fitness Tracker turns your phone into a complete health companion, tracking workouts, calories burned, daily steps, and long-term health goals with smart, data-driven insights. Choose from dozens of workout templates or log custom routines, and watch detailed charts reveal your progress over weeks and months. Personalized recommendations adapt to your activity level, helping you build sustainable habits rather than short-lived streaks. Integration with wearables and reminders to move keep you accountable throughout the day.",
+    "size": 53,
+    "reviews": "8.9k",
+    "ratingAvg": 4.7,
+    "downloads": "10M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 210
+      },
+      {
+        "name": "3 star",
+        "count": 620
+      },
+      {
+        "name": "4 star",
+        "count": 2450
+      },
+      {
+        "name": "5 star",
+        "count": 5560
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/filemanager/300/300",
+    "title": "File Manager",
+    "companyName": "StorageLab",
+    "id": 8,
+    "description": "File Manager brings order to your digital life with an easy-to-use interface for managing local files, folders, and cloud storage all in one place. Compress and extract ZIP archives, move files between storage locations with simple drag-and-drop gestures, and quickly search across your entire device. Built-in previews for documents, images, and videos mean you rarely have to leave the app just to check a file. Robust permission controls and a clean design make it a dependable tool for both casual users and power users managing large file libraries.",
+    "size": 24,
+    "reviews": "6.7k",
+    "ratingAvg": 4.5,
+    "downloads": "12.4M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 260
+      },
+      {
+        "name": "3 star",
+        "count": 580
+      },
+      {
+        "name": "4 star",
+        "count": 2080
+      },
+      {
+        "name": "5 star",
+        "count": 3580
+      }
+    ]
+  }
+]

@@ -1,0 +1,1916 @@
+[
+  {
+    "image": "https://picsum.photos/seed/photoeditorpro/300/300",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelSoft",
+    "id": 1,
+    "description": "Photo Editor Pro is a powerful, all-in-one photo editing app built for creators who want professional-grade results without the learning curve. It comes packed with AI-powered filters that automatically enhance lighting, color balance, and skin tones, along with precision cropping, adjustable blur effects, and a rich set of color enhancement tools. Whether you're touching up a quick selfie or preparing images for a portfolio, the intuitive layer-based editor lets you fine-tune every detail. Regular updates bring new presets, filters, and export options for social media, print, and web.",
+    "size": 45,
+    "reviews": "12.5k",
+    "ratingAvg": 4.7,
+    "downloads": "850K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 250
+      },
+      {
+        "name": "3 star",
+        "count": 680
+      },
+      {
+        "name": "4 star",
+        "count": 3240
+      },
+      {
+        "name": "5 star",
+        "count": 8190
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/musicplayerx/300/300",
+    "title": "Music Player X",
+    "companyName": "SoundWave",
+    "id": 2,
+    "description": "Music Player X delivers a premium offline listening experience with a beautifully designed interface built for audiophiles and casual listeners alike. Create unlimited playlists, fine-tune your sound with a 10-band equalizer, and enjoy crystal-clear high-quality audio playback even without an internet connection. The app supports gapless playback, smart shuffle, and customizable themes so your music library always feels personal. Background playback, sleep timers, and widget support make it a reliable daily companion for every mood and moment.",
+    "size": 32,
+    "reviews": "9.9k",
+    "ratingAvg": 4.5,
+    "downloads": "1.2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 180
+      },
+      {
+        "name": "2 star",
+        "count": 340
+      },
+      {
+        "name": "3 star",
+        "count": 710
+      },
+      {
+        "name": "4 star",
+        "count": 2960
+      },
+      {
+        "name": "5 star",
+        "count": 5680
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/weathernow/300/300",
+    "title": "Weather Now",
+    "companyName": "SkyTech",
+    "id": 3,
+    "description": "Weather Now keeps you a step ahead of the elements with real-time forecasts, minute-by-minute precipitation tracking, and detailed hourly and 10-day outlooks. Severe weather alerts are pushed instantly so you're never caught off guard by storms, heatwaves, or sudden temperature drops. Interactive radar maps, air quality indices, and UV index readings give you a complete picture of conditions in your area and anywhere else in the world. Clean visuals and customizable widgets make checking the weather effortless.",
+    "size": 28,
+    "reviews": "7.5k",
+    "ratingAvg": 4.4,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 140
+      },
+      {
+        "name": "2 star",
+        "count": 310
+      },
+      {
+        "name": "3 star",
+        "count": 590
+      },
+      {
+        "name": "4 star",
+        "count": 2350
+      },
+      {
+        "name": "5 star",
+        "count": 4130
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/taskmanager/300/300",
+    "title": "Task Manager",
+    "companyName": "DailyApps",
+    "id": 4,
+    "description": "Task Manager is a clean, distraction-free productivity app designed to help you organize daily tasks, set smart reminders, and stay on top of deadlines. Group tasks into projects, set priority levels, and use recurring reminders for habits and routines you want to build. A minimal, intuitive interface keeps the focus on getting things done rather than fighting with the app. Sync across devices ensures your to-do list is always up to date, wherever you are.",
+    "size": 18,
+    "reviews": "5.8k",
+    "ratingAvg": 4.6,
+    "downloads": "3.8M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 90
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 430
+      },
+      {
+        "name": "4 star",
+        "count": 1820
+      },
+      {
+        "name": "5 star",
+        "count": 3320
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/videoplayerhd/300/300",
+    "title": "Video Player HD",
+    "companyName": "MediaCore",
+    "id": 5,
+    "description": "Video Player HD is a versatile media player that plays virtually every video format without the need for extra codecs or conversions. Enjoy built-in subtitle support with automatic syncing, intuitive gesture controls for brightness and volume, and hardware-accelerated decoding for smooth 4K playback even on modest devices. Background audio mode, floating window playback, and customizable playback speed give you full control over how you watch. It's the reliable go-to player for movies, downloaded shows, and personal video collections.",
+    "size": 41,
+    "reviews": "13.6k",
+    "ratingAvg": 4.8,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 110
+      },
+      {
+        "name": "2 star",
+        "count": 220
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 2950
+      },
+      {
+        "name": "5 star",
+        "count": 9680
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/smartcalculator/300/300",
+    "title": "Smart Calculator",
+    "companyName": "CalcTech",
+    "id": 6,
+    "description": "Smart Calculator reimagines the everyday calculator with a modern, clutter-free design and powerful scientific functions for students, engineers, and professionals. Keep a running history of your calculations, switch between dozens of unit conversions instantly, and personalize the interface with a variety of sleek themes. Advanced functions like trigonometry, logarithms, and equation solving sit right alongside the basics, so you never need a second app. It's fast, accurate, and built to handle everything from quick arithmetic to complex formulas.",
+    "size": 15,
+    "reviews": "4.4k",
+    "ratingAvg": 4.3,
+    "downloads": "7.5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 130
+      },
+      {
+        "name": "2 star",
+        "count": 220
+      },
+      {
+        "name": "3 star",
+        "count": 520
+      },
+      {
+        "name": "4 star",
+        "count": 1430
+      },
+      {
+        "name": "5 star",
+        "count": 2080
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/fitnesstracker/300/300",
+    "title": "Fitness Tracker",
+    "companyName": "HealthPlus",
+    "id": 7,
+    "description": "Fitness Tracker turns your phone into a complete health companion, tracking workouts, calories burned, daily steps, and long-term health goals with smart, data-driven insights. Choose from dozens of workout templates or log custom routines, and watch detailed charts reveal your progress over weeks and months. Personalized recommendations adapt to your activity level, helping you build sustainable habits rather than short-lived streaks. Integration with wearables and reminders to move keep you accountable throughout the day.",
+    "size": 53,
+    "reviews": "8.9k",
+    "ratingAvg": 4.7,
+    "downloads": "10M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 210
+      },
+      {
+        "name": "3 star",
+        "count": 620
+      },
+      {
+        "name": "4 star",
+        "count": 2450
+      },
+      {
+        "name": "5 star",
+        "count": 5560
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/filemanager/300/300",
+    "title": "File Manager",
+    "companyName": "StorageLab",
+    "id": 8,
+    "description": "File Manager brings order to your digital life with an easy-to-use interface for managing local files, folders, and cloud storage all in one place. Compress and extract ZIP archives, move files between storage locations with simple drag-and-drop gestures, and quickly search across your entire device. Built-in previews for documents, images, and videos mean you rarely have to leave the app just to check a file. Robust permission controls and a clean design make it a dependable tool for both casual users and power users managing large file libraries.",
+    "size": 24,
+    "reviews": "6.7k",
+    "ratingAvg": 4.5,
+    "downloads": "12.4M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 260
+      },
+      {
+        "name": "3 star",
+        "count": 580
+      },
+      {
+        "name": "4 star",
+        "count": 2080
+      },
+      {
+        "name": "5 star",
+        "count": 3580
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app9/300/300",
+    "title": "Notes Pro",
+    "companyName": "MediaCore",
+    "id": 9,
+    "description": "Notes Pro is a fast, reliable note-taking app designed for anyone who needs to capture ideas the moment they strike. Rich text formatting, checklists, and voice-to-text input make it easy to jot down everything from quick reminders to detailed meeting notes. Notes sync automatically across devices, and a powerful search function helps you find exactly what you need in seconds. Folders, tags, and pinned notes keep even the busiest note collection feeling organized and accessible.",
+    "size": 31,
+    "reviews": "20.8k",
+    "ratingAvg": 4.4,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 51
+      },
+      {
+        "name": "2 star",
+        "count": 175
+      },
+      {
+        "name": "3 star",
+        "count": 510
+      },
+      {
+        "name": "4 star",
+        "count": 3560
+      },
+      {
+        "name": "5 star",
+        "count": 4385
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app10/300/300",
+    "title": "Scanner Pro",
+    "companyName": "HealthPlus",
+    "id": 10,
+    "description": "Scanner Pro turns your phone's camera into a high-quality document scanner, automatically detecting edges and enhancing text clarity for crisp, professional-looking scans. Export to PDF or image formats, combine multiple pages into a single document, and use built-in OCR to make scanned text searchable and copyable. Cloud backup and easy sharing options mean your scanned receipts, contracts, and notes are always within reach. It's a must-have utility for students, freelancers, and anyone tired of paper clutter.",
+    "size": 25,
+    "reviews": "12.0k",
+    "ratingAvg": 4.9,
+    "downloads": "10M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 64
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 875
+      },
+      {
+        "name": "4 star",
+        "count": 2472
+      },
+      {
+        "name": "5 star",
+        "count": 10893
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app11/300/300",
+    "title": "Browser Pro",
+    "companyName": "SkyTech",
+    "id": 11,
+    "description": "Browser Pro is a fast, privacy-focused web browser built for users who want speed without sacrificing control over their data. Built-in ad and tracker blocking keep pages loading quickly and your browsing habits private, while a customizable start page and tab management tools keep everything organized. Night mode, data-saving compression, and download management round out a feature set designed for everyday browsing as well as heavy multitaskers. Regular security updates ensure you're always protected against the latest threats.",
+    "size": 77,
+    "reviews": "24.3k",
+    "ratingAvg": 4.4,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 214
+      },
+      {
+        "name": "2 star",
+        "count": 364
+      },
+      {
+        "name": "3 star",
+        "count": 308
+      },
+      {
+        "name": "4 star",
+        "count": 2953
+      },
+      {
+        "name": "5 star",
+        "count": 9313
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app12/300/300",
+    "title": "VPN Pro",
+    "companyName": "SkyTech",
+    "id": 12,
+    "description": "VPN Pro protects your online privacy with military-grade encryption, masking your IP address and securing your connection on public and private networks alike. Choose from hundreds of high-speed servers around the world to bypass regional restrictions and browse anonymously. A strict no-logs policy, automatic kill switch, and split tunneling give privacy-conscious users fine-grained control over how their traffic is routed. Whether you're traveling, working remotely, or just browsing at home, it keeps your data safe from prying eyes.",
+    "size": 64,
+    "reviews": "10.0k",
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 248
+      },
+      {
+        "name": "2 star",
+        "count": 417
+      },
+      {
+        "name": "3 star",
+        "count": 816
+      },
+      {
+        "name": "4 star",
+        "count": 2576
+      },
+      {
+        "name": "5 star",
+        "count": 9611
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app13/300/300",
+    "title": "Gallery Pro",
+    "companyName": "HealthPlus",
+    "id": 13,
+    "description": "Gallery Pro reorganizes your photo and video library into a beautifully browsable experience with smart albums, facial recognition grouping, and powerful search filters. Edit images directly within the app, hide private photos behind a secure vault, and free up storage with intelligent duplicate detection. Seamless backup to the cloud ensures your memories are never lost, while a fluid, gesture-based interface makes flipping through thousands of photos feel effortless. It's the complete solution for anyone whose camera roll has gotten out of hand.",
+    "size": 21,
+    "reviews": "10.6k",
+    "ratingAvg": 4.7,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 229
+      },
+      {
+        "name": "2 star",
+        "count": 256
+      },
+      {
+        "name": "3 star",
+        "count": 707
+      },
+      {
+        "name": "4 star",
+        "count": 3445
+      },
+      {
+        "name": "5 star",
+        "count": 7227
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app14/300/300",
+    "title": "Recorder Pro",
+    "companyName": "NovaSoft",
+    "id": 14,
+    "description": "Recorder Pro is a professional-grade audio recording app suitable for interviews, lectures, voice memos, and music ideas on the go. High-fidelity recording quality, background recording support, and easy trimming and editing tools let you capture and clean up audio without needing a separate editor. Automatic cloud backup and quick sharing options make it simple to send recordings to colleagues or classmates. A clean waveform view and adjustable recording formats give you flexibility for any use case.",
+    "size": 57,
+    "reviews": "13.5k",
+    "ratingAvg": 4.2,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 267
+      },
+      {
+        "name": "2 star",
+        "count": 171
+      },
+      {
+        "name": "3 star",
+        "count": 380
+      },
+      {
+        "name": "4 star",
+        "count": 3179
+      },
+      {
+        "name": "5 star",
+        "count": 5129
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app15/300/300",
+    "title": "Translator Pro",
+    "companyName": "CloudNest",
+    "id": 15,
+    "description": "Translator Pro breaks down language barriers with fast, accurate translations across dozens of languages, supporting text, voice, and even camera-based translation for signs and menus. Offline translation packs mean you're never stuck without a connection while traveling abroad. Conversation mode enables real-time back-and-forth translation between two speakers, making it ideal for travel, business meetings, and everyday interactions. A built-in phrasebook and pronunciation guide help you pick up useful phrases along the way.",
+    "size": 27,
+    "reviews": "12.0k",
+    "ratingAvg": 4.4,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 156
+      },
+      {
+        "name": "2 star",
+        "count": 274
+      },
+      {
+        "name": "3 star",
+        "count": 338
+      },
+      {
+        "name": "4 star",
+        "count": 2672
+      },
+      {
+        "name": "5 star",
+        "count": 11902
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app16/300/300",
+    "title": "Keyboard Pro",
+    "companyName": "CloudNest",
+    "id": 16,
+    "description": "Keyboard Pro replaces your default keyboard with a smarter, faster typing experience featuring predictive text, customizable themes, and an extensive emoji and GIF library. Swipe typing, multilingual support, and a built-in clipboard manager streamline everyday typing whether you're messaging friends or drafting emails. Personalize layouts, key sounds, and haptic feedback to match your typing style exactly. Privacy-first design ensures your keystrokes stay private while the app learns your preferences to improve suggestions over time.",
+    "size": 33,
+    "reviews": "13.2k",
+    "ratingAvg": 4.4,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 168
+      },
+      {
+        "name": "2 star",
+        "count": 203
+      },
+      {
+        "name": "3 star",
+        "count": 736
+      },
+      {
+        "name": "4 star",
+        "count": 3363
+      },
+      {
+        "name": "5 star",
+        "count": 6093
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app17/300/300",
+    "title": "Clock Pro",
+    "companyName": "HealthPlus",
+    "id": 17,
+    "description": "Clock Pro combines alarms, world clocks, timers, and a stopwatch into one polished, easy-to-use utility app. Set multiple customizable alarms with gentle wake-up sounds, track time zones for friends and colleagues around the globe, and use precise timers for cooking, workouts, or focus sessions. A sleek, minimalist interface makes checking the time and managing your schedule quick and distraction-free. Reliable notifications ensure you never miss an important alarm, even in battery-saving mode.",
+    "size": 77,
+    "reviews": "15.4k",
+    "ratingAvg": 4.3,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 126
+      },
+      {
+        "name": "2 star",
+        "count": 119
+      },
+      {
+        "name": "3 star",
+        "count": 588
+      },
+      {
+        "name": "4 star",
+        "count": 2898
+      },
+      {
+        "name": "5 star",
+        "count": 5768
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app18/300/300",
+    "title": "Launcher Pro",
+    "companyName": "HealthPlus",
+    "id": 18,
+    "description": "Launcher Pro transforms your home screen with customizable layouts, icon packs, gesture controls, and smooth animations that make your device feel brand new. Organize apps into smart folders, create app drawers tailored to your workflow, and personalize widgets to surface exactly the information you need at a glance. Regular theme updates and community-shared layouts keep your home screen fresh without ever feeling cluttered. It's built to be fast and lightweight, even on older devices.",
+    "size": 63,
+    "reviews": "11.7k",
+    "ratingAvg": 4.6,
+    "downloads": "7M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 163
+      },
+      {
+        "name": "2 star",
+        "count": 321
+      },
+      {
+        "name": "3 star",
+        "count": 727
+      },
+      {
+        "name": "4 star",
+        "count": 3205
+      },
+      {
+        "name": "5 star",
+        "count": 6644
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app19/300/300",
+    "title": "Maps Pro",
+    "companyName": "AppForge",
+    "id": 19,
+    "description": "Maps Pro delivers accurate, real-time navigation with turn-by-turn directions, live traffic updates, and offline map downloads for when you're off the grid. Discover nearby restaurants, gas stations, and points of interest with detailed reviews and photos, and plan multi-stop routes with ease. Voice-guided navigation and automatic rerouting help you avoid delays, while a clean, uncluttered map view keeps you focused on the road. It's a dependable companion for daily commutes and cross-country road trips alike.",
+    "size": 14,
+    "reviews": "17.1k",
+    "ratingAvg": 4.2,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 79
+      },
+      {
+        "name": "2 star",
+        "count": 401
+      },
+      {
+        "name": "3 star",
+        "count": 856
+      },
+      {
+        "name": "4 star",
+        "count": 3158
+      },
+      {
+        "name": "5 star",
+        "count": 3234
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app20/300/300",
+    "title": "News Pro",
+    "companyName": "CloudNest",
+    "id": 20,
+    "description": "News Pro curates breaking news and in-depth stories from trusted sources around the world, personalized to match your interests and reading habits. Follow specific topics, publications, or journalists, and receive timely push notifications for the stories that matter most to you. A distraction-free reading mode and offline article saving let you catch up on the news whenever it's convenient. Daily briefings and curated digests make it easy to stay informed without feeling overwhelmed.",
+    "size": 31,
+    "reviews": "16.2k",
+    "ratingAvg": 4.8,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 269
+      },
+      {
+        "name": "2 star",
+        "count": 249
+      },
+      {
+        "name": "3 star",
+        "count": 327
+      },
+      {
+        "name": "4 star",
+        "count": 1977
+      },
+      {
+        "name": "5 star",
+        "count": 4055
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app21/300/300",
+    "title": "Finance Pro",
+    "companyName": "NextWave",
+    "id": 21,
+    "description": "Finance Pro helps you take control of your money with intuitive budgeting tools, expense tracking, and clear visual breakdowns of your spending habits. Link accounts securely to automatically categorize transactions, set savings goals, and receive alerts when you're approaching budget limits. Detailed monthly reports and trend charts make it easy to spot where your money is really going. Whether you're saving for a big purchase or just trying to build better habits, it gives you the clarity to make smarter financial decisions.",
+    "size": 30,
+    "reviews": "11.7k",
+    "ratingAvg": 4.9,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 122
+      },
+      {
+        "name": "2 star",
+        "count": 321
+      },
+      {
+        "name": "3 star",
+        "count": 786
+      },
+      {
+        "name": "4 star",
+        "count": 3272
+      },
+      {
+        "name": "5 star",
+        "count": 3102
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app22/300/300",
+    "title": "Recipes Pro",
+    "companyName": "BrightLabs",
+    "id": 22,
+    "description": "Recipes Pro is a vibrant cooking companion packed with thousands of recipes ranging from quick weeknight dinners to ambitious weekend projects. Step-by-step instructions, adjustable serving sizes, and built-in timers make following along in the kitchen simple and stress-free. Save favorites, build custom meal plans, and generate shopping lists automatically based on the ingredients you need. A vibrant community of home cooks shares tips, substitutions, and photos to help you get the best results every time.",
+    "size": 69,
+    "reviews": "20.6k",
+    "ratingAvg": 4.1,
+    "downloads": "10M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 186
+      },
+      {
+        "name": "2 star",
+        "count": 133
+      },
+      {
+        "name": "3 star",
+        "count": 874
+      },
+      {
+        "name": "4 star",
+        "count": 3111
+      },
+      {
+        "name": "5 star",
+        "count": 8587
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app23/300/300",
+    "title": "Shopping Pro",
+    "companyName": "HealthPlus",
+    "id": 23,
+    "description": "Shopping Pro brings together price comparisons, exclusive deals, and personalized product recommendations to make online shopping faster and smarter. Track price drops on items you're watching, scan barcodes for instant price comparisons in-store, and organize wishlists across multiple retailers in one place. Secure checkout integration and order tracking keep everything in one convenient dashboard. Whether you're hunting for a bargain or planning a big purchase, it helps you shop with confidence.",
+    "size": 55,
+    "reviews": "16.6k",
+    "ratingAvg": 4.4,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 97
+      },
+      {
+        "name": "2 star",
+        "count": 191
+      },
+      {
+        "name": "3 star",
+        "count": 489
+      },
+      {
+        "name": "4 star",
+        "count": 2378
+      },
+      {
+        "name": "5 star",
+        "count": 9904
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app24/300/300",
+    "title": "Wallpaper Pro",
+    "companyName": "SkyTech",
+    "id": 24,
+    "description": "Wallpaper Pro offers a massive, constantly updated library of high-resolution wallpapers spanning every style from minimalist to vibrant abstract art. Browse curated collections, filter by color palette or category, and preview wallpapers directly on your lock and home screens before applying them. Automatic daily wallpaper rotation keeps your device feeling fresh without any extra effort. Favorite and organize your top picks into custom collections for easy access anytime.",
+    "size": 12,
+    "reviews": "4.4k",
+    "ratingAvg": 4.9,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 94
+      },
+      {
+        "name": "2 star",
+        "count": 170
+      },
+      {
+        "name": "3 star",
+        "count": 705
+      },
+      {
+        "name": "4 star",
+        "count": 1226
+      },
+      {
+        "name": "5 star",
+        "count": 7042
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app25/300/300",
+    "title": "Podcast Pro",
+    "companyName": "BrightLabs",
+    "id": 25,
+    "description": "Podcast Pro is a feature-rich podcast player designed for listeners who follow dozens of shows across every genre imaginable. Smart queues, variable playback speed, and silence-skipping technology make it easy to get through episodes efficiently, while offline downloads ensure uninterrupted listening on the go. Discover new shows through personalized recommendations and curated charts, and sync your listening progress seamlessly across devices. Sleep timers and chapter markers add extra convenience for long-form listening sessions.",
+    "size": 40,
+    "reviews": "21.9k",
+    "ratingAvg": 4.2,
+    "downloads": "7M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 159
+      },
+      {
+        "name": "2 star",
+        "count": 177
+      },
+      {
+        "name": "3 star",
+        "count": 547
+      },
+      {
+        "name": "4 star",
+        "count": 2529
+      },
+      {
+        "name": "5 star",
+        "count": 10085
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app26/300/300",
+    "title": "Cleaner Pro",
+    "companyName": "NextWave",
+    "id": 26,
+    "description": "Cleaner Pro keeps your device running smoothly by identifying junk files, duplicate photos, and unused apps that are quietly eating up storage space. A one-tap optimization feature clears cache, frees up RAM, and boosts overall performance without requiring technical know-how. Battery-saving tools and background app management help extend your device's battery life throughout the day. Regular scans and helpful notifications make ongoing maintenance simple and automatic.",
+    "size": 37,
+    "reviews": "8.8k",
+    "ratingAvg": 4.3,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 62
+      },
+      {
+        "name": "2 star",
+        "count": 123
+      },
+      {
+        "name": "3 star",
+        "count": 767
+      },
+      {
+        "name": "4 star",
+        "count": 1052
+      },
+      {
+        "name": "5 star",
+        "count": 10469
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app27/300/300",
+    "title": "Compass Pro",
+    "companyName": "NovaSoft",
+    "id": 27,
+    "description": "Compass Pro is a precision navigation utility offering accurate digital compass readings, GPS coordinates, and altitude tracking for hikers, sailors, and outdoor enthusiasts. A built-in map overlay helps you orient yourself even without a strong signal, while calibration tools ensure readings stay accurate in any environment. Save favorite locations, track your route history, and share your position with others in real time. Its rugged, easy-to-read interface is designed for use in the field, not just at your desk.",
+    "size": 66,
+    "reviews": "19.1k",
+    "ratingAvg": 4.6,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 189
+      },
+      {
+        "name": "2 star",
+        "count": 290
+      },
+      {
+        "name": "3 star",
+        "count": 357
+      },
+      {
+        "name": "4 star",
+        "count": 2256
+      },
+      {
+        "name": "5 star",
+        "count": 4873
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app28/300/300",
+    "title": "Dictionary Pro",
+    "companyName": "AppForge",
+    "id": 28,
+    "description": "Dictionary Pro is a comprehensive language reference tool offering definitions, synonyms, antonyms, and example sentences for hundreds of thousands of words. Word-of-the-day notifications and a built-in vocabulary quiz help you expand your language skills over time. Offline access ensures the dictionary is always available, even without an internet connection, making it ideal for students and writers alike. A clean, searchable interface with pronunciation audio makes looking up words fast and genuinely enjoyable.",
+    "size": 34,
+    "reviews": "14.9k",
+    "ratingAvg": 4.4,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 182
+      },
+      {
+        "name": "2 star",
+        "count": 412
+      },
+      {
+        "name": "3 star",
+        "count": 438
+      },
+      {
+        "name": "4 star",
+        "count": 3649
+      },
+      {
+        "name": "5 star",
+        "count": 8747
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app29/300/300",
+    "title": "Flashlight Pro",
+    "companyName": "DailyApps",
+    "id": 29,
+    "description": "Flashlight Pro turns your phone into a powerful, reliable light source with adjustable brightness levels, strobe modes, and SOS signaling for emergencies. A simple one-tap toggle means you can light up a dark room or find your keys in seconds, while low battery-usage design ensures the flashlight doesn't drain your device unnecessarily. Widget support lets you activate the light directly from your home screen without even opening the app. It's a small utility that proves useful far more often than you'd expect.",
+    "size": 40,
+    "reviews": "5.1k",
+    "ratingAvg": 4.3,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 87
+      },
+      {
+        "name": "2 star",
+        "count": 173
+      },
+      {
+        "name": "3 star",
+        "count": 795
+      },
+      {
+        "name": "4 star",
+        "count": 2415
+      },
+      {
+        "name": "5 star",
+        "count": 5576
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app30/300/300",
+    "title": "Camera Pro",
+    "companyName": "CloudNest",
+    "id": 30,
+    "description": "Camera Pro enhances your device's default camera with manual controls, advanced shooting modes, and professional-grade filters for photographers of every skill level. Adjust ISO, shutter speed, and focus manually, or let smart scene detection optimize settings automatically for the perfect shot. RAW image support and built-in editing tools mean you can capture and refine photos without ever leaving the app. Portrait mode, night mode, and burst shooting round out a feature set built for creativity on the go.",
+    "size": 68,
+    "reviews": "5.7k",
+    "ratingAvg": 4.5,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 63
+      },
+      {
+        "name": "2 star",
+        "count": 277
+      },
+      {
+        "name": "3 star",
+        "count": 797
+      },
+      {
+        "name": "4 star",
+        "count": 1470
+      },
+      {
+        "name": "5 star",
+        "count": 9538
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app31/300/300",
+    "title": "Messenger Pro",
+    "companyName": "HealthPlus",
+    "id": 31,
+    "description": "Messenger Pro delivers fast, secure messaging with end-to-end encryption, group chats, and rich media sharing for photos, videos, and voice messages. Customizable chat themes, read receipts, and typing indicators keep conversations personal and expressive. Voice and video calling with crystal-clear quality make it easy to stay connected with friends, family, and colleagues wherever they are. Reliable delivery even on weak connections ensures your messages always get through.",
+    "size": 59,
+    "reviews": "24.3k",
+    "ratingAvg": 4.8,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 269
+      },
+      {
+        "name": "2 star",
+        "count": 313
+      },
+      {
+        "name": "3 star",
+        "count": 687
+      },
+      {
+        "name": "4 star",
+        "count": 1684
+      },
+      {
+        "name": "5 star",
+        "count": 3495
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app32/300/300",
+    "title": "Email Pro",
+    "companyName": "NextWave",
+    "id": 32,
+    "description": "Email Pro streamlines your inbox with smart sorting, one-swipe actions, and unified support for multiple email accounts in a single, clean interface. Snooze emails for later, set up custom filters and rules, and use built-in templates to draft replies faster. Push notifications keep you informed of important messages while smart categorization filters out newsletters and promotions automatically. It's designed to help you spend less time managing email and more time on what matters.",
+    "size": 33,
+    "reviews": "9.8k",
+    "ratingAvg": 4.1,
+    "downloads": "10M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 123
+      },
+      {
+        "name": "2 star",
+        "count": 459
+      },
+      {
+        "name": "3 star",
+        "count": 857
+      },
+      {
+        "name": "4 star",
+        "count": 1707
+      },
+      {
+        "name": "5 star",
+        "count": 5178
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app33/300/300",
+    "title": "Calendar Pro",
+    "companyName": "CloudNest",
+    "id": 33,
+    "description": "Calendar Pro helps you manage your schedule with color-coded events, recurring reminders, and seamless syncing across all your calendars and devices. Multiple view options\u2014day, week, month, and agenda\u2014let you plan the way that suits you best, while smart scheduling suggestions help you find the right time for meetings. Shared calendars make coordinating with family, friends, and coworkers effortless. Customizable notifications ensure you're always prepared for what's coming next.",
+    "size": 68,
+    "reviews": "21.1k",
+    "ratingAvg": 4.2,
+    "downloads": "7M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 193
+      },
+      {
+        "name": "2 star",
+        "count": 251
+      },
+      {
+        "name": "3 star",
+        "count": 756
+      },
+      {
+        "name": "4 star",
+        "count": 1850
+      },
+      {
+        "name": "5 star",
+        "count": 8076
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app34/300/300",
+    "title": "PDF Reader Pro",
+    "companyName": "StorageLab",
+    "id": 34,
+    "description": "PDF Reader Pro makes working with PDF documents fast and intuitive, offering smooth scrolling, annotation tools, and support for filling out and signing forms directly on your device. Highlight text, add sticky notes, and bookmark important pages for quick reference later. Built-in file management and cloud sync keep your documents organized and accessible across devices. Whether you're reviewing contracts or reading an eBook, it delivers a reliable, distraction-free reading experience.",
+    "size": 25,
+    "reviews": "21.2k",
+    "ratingAvg": 4.8,
+    "downloads": "1M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 183
+      },
+      {
+        "name": "2 star",
+        "count": 227
+      },
+      {
+        "name": "3 star",
+        "count": 569
+      },
+      {
+        "name": "4 star",
+        "count": 1782
+      },
+      {
+        "name": "5 star",
+        "count": 6909
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app35/300/300",
+    "title": "Code Editor Pro",
+    "companyName": "SkyTech",
+    "id": 35,
+    "description": "Code Editor Pro is a lightweight yet powerful mobile code editor supporting dozens of programming languages with syntax highlighting, auto-completion, and error detection. Built-in terminal access and Git integration let developers write, test, and manage code without needing a full desktop setup. Customizable themes and keyboard shortcuts make coding on a phone or tablet feel surprisingly natural. It's a handy tool for quick edits, learning to code, or working on the go between desktop sessions.",
+    "size": 64,
+    "reviews": "10.3k",
+    "ratingAvg": 4.7,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 186
+      },
+      {
+        "name": "2 star",
+        "count": 422
+      },
+      {
+        "name": "3 star",
+        "count": 770
+      },
+      {
+        "name": "4 star",
+        "count": 2854
+      },
+      {
+        "name": "5 star",
+        "count": 6949
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app36/300/300",
+    "title": "QR Scanner Pro",
+    "companyName": "NovaSoft",
+    "id": 36,
+    "description": "QR Scanner Pro instantly scans QR codes and barcodes with speed and accuracy, whether you're checking in at an event, viewing a product's details, or connecting to Wi-Fi. Scan history, batch scanning, and the ability to generate your own custom QR codes make it a versatile everyday tool. Built-in safety checks flag suspicious links before you open them, adding an extra layer of protection. A clean, fast interface means you're rarely more than a second away from the information you need.",
+    "size": 36,
+    "reviews": "13.9k",
+    "ratingAvg": 4.4,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 255
+      },
+      {
+        "name": "2 star",
+        "count": 296
+      },
+      {
+        "name": "3 star",
+        "count": 477
+      },
+      {
+        "name": "4 star",
+        "count": 1955
+      },
+      {
+        "name": "5 star",
+        "count": 7632
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app37/300/300",
+    "title": "Expense Pro",
+    "companyName": "NovaSoft",
+    "id": 37,
+    "description": "Expense Pro simplifies personal and business expense tracking with quick entry logging, receipt scanning, and detailed category breakdowns. Generate reports for tax season or reimbursement claims in just a few taps, and set spending limits to stay on budget throughout the month. Multi-currency support and cloud backup make it reliable for travelers and remote workers alike. Clear visual summaries turn scattered receipts into actionable financial insight.",
+    "size": 34,
+    "reviews": "3.2k",
+    "ratingAvg": 4.8,
+    "downloads": "10M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 126
+      },
+      {
+        "name": "2 star",
+        "count": 247
+      },
+      {
+        "name": "3 star",
+        "count": 416
+      },
+      {
+        "name": "4 star",
+        "count": 2237
+      },
+      {
+        "name": "5 star",
+        "count": 10263
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app38/300/300",
+    "title": "Habit Pro",
+    "companyName": "AppForge",
+    "id": 38,
+    "description": "Habit Pro helps you build lasting routines with customizable habit tracking, streak counters, and motivating progress visualizations. Set daily, weekly, or custom schedules for each habit, and receive gentle reminders that keep you accountable without feeling nagging. Detailed statistics reveal patterns in your consistency over time, helping you identify what's working and what needs adjustment. A clean, encouraging design makes habit-building feel achievable rather than overwhelming.",
+    "size": 58,
+    "reviews": "10.8k",
+    "ratingAvg": 4.2,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 229
+      },
+      {
+        "name": "2 star",
+        "count": 226
+      },
+      {
+        "name": "3 star",
+        "count": 494
+      },
+      {
+        "name": "4 star",
+        "count": 2982
+      },
+      {
+        "name": "5 star",
+        "count": 9661
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app39/300/300",
+    "title": "Meditation Pro",
+    "companyName": "BrightLabs",
+    "id": 39,
+    "description": "Meditation Pro offers guided meditations, breathing exercises, and calming soundscapes designed to reduce stress and improve focus, whatever your experience level. Choose from sessions ranging from quick two-minute resets to full hour-long deep relaxation practices. Progress tracking and daily reminders help you build a consistent mindfulness habit over time. A soothing, minimalist interface sets the tone for a genuinely restful experience every time you open the app.",
+    "size": 72,
+    "reviews": "10.7k",
+    "ratingAvg": 4.4,
+    "downloads": "1M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 194
+      },
+      {
+        "name": "2 star",
+        "count": 420
+      },
+      {
+        "name": "3 star",
+        "count": 661
+      },
+      {
+        "name": "4 star",
+        "count": 2170
+      },
+      {
+        "name": "5 star",
+        "count": 11619
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app40/300/300",
+    "title": "Sleep Pro",
+    "companyName": "NextWave",
+    "id": 40,
+    "description": "Sleep Pro tracks your sleep cycles, analyzes sleep quality, and wakes you gently during your lightest sleep phase for a more refreshed morning. A library of calming sounds, white noise, and guided sleep stories helps you fall asleep faster and stay asleep longer. Detailed sleep reports reveal trends over weeks and months, helping you understand and improve your sleep habits. Smart alarm scheduling adapts to your natural rhythms rather than jolting you awake at a fixed time.",
+    "size": 67,
+    "reviews": "18.8k",
+    "ratingAvg": 4.4,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 186
+      },
+      {
+        "name": "2 star",
+        "count": 344
+      },
+      {
+        "name": "3 star",
+        "count": 307
+      },
+      {
+        "name": "4 star",
+        "count": 3722
+      },
+      {
+        "name": "5 star",
+        "count": 4427
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app41/300/300",
+    "title": "Drawing Pro",
+    "companyName": "HealthPlus",
+    "id": 41,
+    "description": "Drawing Pro gives digital artists a full-featured canvas with layered editing, pressure-sensitive brush support, and an extensive library of customizable brushes and textures. Whether you're sketching quick concepts or creating detailed illustrations, smooth performance and intuitive gesture controls keep the creative process fluid. Export in multiple formats and resolutions for print, web, or social sharing. Built-in tutorials help beginners get comfortable while advanced tools satisfy experienced artists.",
+    "size": 53,
+    "reviews": "3.7k",
+    "ratingAvg": 4.4,
+    "downloads": "7M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 274
+      },
+      {
+        "name": "2 star",
+        "count": 487
+      },
+      {
+        "name": "3 star",
+        "count": 663
+      },
+      {
+        "name": "4 star",
+        "count": 3600
+      },
+      {
+        "name": "5 star",
+        "count": 9681
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app42/300/300",
+    "title": "Kids Learn Pro",
+    "companyName": "NovaSoft",
+    "id": 42,
+    "description": "Kids Learn Pro combines educational games, interactive stories, and colorful activities designed to make early learning fun and engaging for young children. Covering topics like letters, numbers, shapes, and basic reasoning, the app adapts difficulty based on each child's progress. Parental controls and screen-time limits give caregivers peace of mind, while detailed progress reports show how skills are developing. Bright visuals and encouraging feedback keep kids motivated to keep learning.",
+    "size": 46,
+    "reviews": "10.0k",
+    "ratingAvg": 4.8,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 297
+      },
+      {
+        "name": "2 star",
+        "count": 312
+      },
+      {
+        "name": "3 star",
+        "count": 332
+      },
+      {
+        "name": "4 star",
+        "count": 3962
+      },
+      {
+        "name": "5 star",
+        "count": 7362
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app43/300/300",
+    "title": "Chess Pro",
+    "companyName": "StorageLab",
+    "id": 43,
+    "description": "Chess Pro offers a polished chess experience with adjustable AI difficulty levels, puzzle challenges, and detailed move analysis to help players of all skill levels improve. Play against the computer, practice classic openings, or review famous historical games move by move. Online multiplayer lets you challenge friends or players from around the world in real time. A clean board design and helpful hints make it approachable for beginners while still challenging seasoned players.",
+    "size": 62,
+    "reviews": "10.1k",
+    "ratingAvg": 4.9,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 158
+      },
+      {
+        "name": "2 star",
+        "count": 214
+      },
+      {
+        "name": "3 star",
+        "count": 756
+      },
+      {
+        "name": "4 star",
+        "count": 2792
+      },
+      {
+        "name": "5 star",
+        "count": 3617
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app44/300/300",
+    "title": "Sudoku Pro",
+    "companyName": "AppForge",
+    "id": 44,
+    "description": "Sudoku Pro delivers thousands of puzzles across multiple difficulty levels, from relaxing beginner grids to fiendishly challenging expert puzzles. Helpful hints, mistake highlighting, and a notes mode support players who are still learning strategy, while a timer and statistics track your improvement over time. Daily challenges keep the puzzle library fresh, and a distraction-free interface makes it perfect for quick breaks or long relaxing sessions. Offline play means you can enjoy a puzzle anywhere, anytime.",
+    "size": 62,
+    "reviews": "13.2k",
+    "ratingAvg": 4.2,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 195
+      },
+      {
+        "name": "2 star",
+        "count": 123
+      },
+      {
+        "name": "3 star",
+        "count": 477
+      },
+      {
+        "name": "4 star",
+        "count": 3754
+      },
+      {
+        "name": "5 star",
+        "count": 4091
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app45/300/300",
+    "title": "Currency Pro",
+    "companyName": "AppForge",
+    "id": 45,
+    "description": "Currency Pro provides fast, accurate currency conversion for over a hundred currencies, with rates updated in real time for travelers, shoppers, and finance professionals. Offline mode stores the latest rates so conversions work even without an internet connection abroad. A clean, simple interface lets you compare multiple currencies side by side instantly. Historical rate charts help you track trends and make more informed decisions about when to exchange money.",
+    "size": 66,
+    "reviews": "17.6k",
+    "ratingAvg": 4.5,
+    "downloads": "2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 243
+      },
+      {
+        "name": "2 star",
+        "count": 288
+      },
+      {
+        "name": "3 star",
+        "count": 630
+      },
+      {
+        "name": "4 star",
+        "count": 1839
+      },
+      {
+        "name": "5 star",
+        "count": 7089
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app46/300/300",
+    "title": "Stocks Pro",
+    "companyName": "CloudNest",
+    "id": 46,
+    "description": "Stocks Pro delivers real-time market data, customizable watchlists, and clear charting tools for investors tracking stocks, ETFs, and other securities. Set price alerts, follow breaking financial news, and review historical performance to inform your investment decisions. A clean dashboard summarizes portfolio performance at a glance, while detailed company profiles provide deeper context on any ticker. It's built to keep both casual investors and active traders informed throughout the trading day.",
+    "size": 62,
+    "reviews": "15.6k",
+    "ratingAvg": 4.8,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 208
+      },
+      {
+        "name": "2 star",
+        "count": 253
+      },
+      {
+        "name": "3 star",
+        "count": 601
+      },
+      {
+        "name": "4 star",
+        "count": 2280
+      },
+      {
+        "name": "5 star",
+        "count": 11060
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app47/300/300",
+    "title": "Travel Pro",
+    "companyName": "HealthPlus",
+    "id": 47,
+    "description": "Travel Pro is your all-in-one trip planning companion, helping you organize itineraries, track flight and hotel bookings, and discover top attractions at your destination. Offline access to maps, tickets, and reservations means everything you need is available even without a signal abroad. Currency conversion, packing checklists, and local recommendations round out a toolkit designed to reduce travel stress. Whether it's a weekend getaway or a month-long adventure, it keeps every detail organized in one place.",
+    "size": 40,
+    "reviews": "12.1k",
+    "ratingAvg": 4.8,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 205
+      },
+      {
+        "name": "2 star",
+        "count": 295
+      },
+      {
+        "name": "3 star",
+        "count": 365
+      },
+      {
+        "name": "4 star",
+        "count": 2370
+      },
+      {
+        "name": "5 star",
+        "count": 3522
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app48/300/300",
+    "title": "Taxi Pro",
+    "companyName": "MediaCore",
+    "id": 48,
+    "description": "Taxi Pro connects riders with nearby drivers for fast, reliable rides with transparent upfront pricing and real-time trip tracking. Schedule rides in advance, split fares with friends, and rate your experience to help maintain quality across the platform. In-app safety features like trip sharing and driver verification add extra peace of mind for every journey. A simple, intuitive booking flow gets you moving in just a few taps.",
+    "size": 26,
+    "reviews": "16.0k",
+    "ratingAvg": 4.5,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 82
+      },
+      {
+        "name": "2 star",
+        "count": 315
+      },
+      {
+        "name": "3 star",
+        "count": 851
+      },
+      {
+        "name": "4 star",
+        "count": 1264
+      },
+      {
+        "name": "5 star",
+        "count": 9544
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app49/300/300",
+    "title": "Food Pro",
+    "companyName": "AppForge",
+    "id": 49,
+    "description": "Food Pro makes ordering meals simple, connecting you with local restaurants for fast delivery or convenient pickup. Browse menus with detailed photos and reviews, track your order in real time, and save favorite meals for quick reordering later. Exclusive deals and loyalty rewards help you save on orders from your go-to spots. A streamlined checkout process means you can have a meal on the way in under a minute.",
+    "size": 27,
+    "reviews": "13.3k",
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 83
+      },
+      {
+        "name": "2 star",
+        "count": 436
+      },
+      {
+        "name": "3 star",
+        "count": 631
+      },
+      {
+        "name": "4 star",
+        "count": 1942
+      },
+      {
+        "name": "5 star",
+        "count": 6071
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app50/300/300",
+    "title": "Books Pro",
+    "companyName": "StorageLab",
+    "id": 50,
+    "description": "Books Pro is a feature-rich eBook reader supporting multiple file formats, customizable fonts, and adjustable lighting for comfortable reading day or night. Organize your library into collections, sync your reading progress across devices, and highlight passages you want to revisit later. A built-in store offers access to thousands of titles across every genre. Distraction-free reading mode and adjustable page-turn animations create a genuinely book-like experience on screen.",
+    "size": 52,
+    "reviews": "9.3k",
+    "ratingAvg": 4.6,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 190
+      },
+      {
+        "name": "2 star",
+        "count": 307
+      },
+      {
+        "name": "3 star",
+        "count": 593
+      },
+      {
+        "name": "4 star",
+        "count": 3578
+      },
+      {
+        "name": "5 star",
+        "count": 3739
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app51/300/300",
+    "title": "Movies Pro",
+    "companyName": "CloudNest",
+    "id": 51,
+    "description": "Movies Pro is a comprehensive movie companion offering showtimes, trailers, reviews, and personalized recommendations based on your viewing history. Track films you want to watch, rate movies you've seen, and discover hidden gems curated by genre and mood. Integration with local theaters makes booking tickets fast and convenient. Detailed cast and crew information satisfies film buffs looking to dig deeper into every title.",
+    "size": 45,
+    "reviews": "11.2k",
+    "ratingAvg": 4.6,
+    "downloads": "1M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 265
+      },
+      {
+        "name": "2 star",
+        "count": 160
+      },
+      {
+        "name": "3 star",
+        "count": 463
+      },
+      {
+        "name": "4 star",
+        "count": 2406
+      },
+      {
+        "name": "5 star",
+        "count": 5562
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app52/300/300",
+    "title": "Streaming Pro",
+    "companyName": "SkyTech",
+    "id": 52,
+    "description": "Streaming Pro brings together your favorite shows and movies with smooth playback, offline downloads, and personalized recommendations tailored to your viewing habits. Continue watching seamlessly across devices, create watchlists for upcoming releases, and adjust streaming quality to match your connection. Parental controls let families curate age-appropriate content with confidence. A clean, ad-light interface keeps the focus on what you're watching, not navigating menus.",
+    "size": 22,
+    "reviews": "23.3k",
+    "ratingAvg": 4.6,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 74
+      },
+      {
+        "name": "2 star",
+        "count": 356
+      },
+      {
+        "name": "3 star",
+        "count": 663
+      },
+      {
+        "name": "4 star",
+        "count": 1612
+      },
+      {
+        "name": "5 star",
+        "count": 11843
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app53/300/300",
+    "title": "Contacts Pro",
+    "companyName": "DailyApps",
+    "id": 53,
+    "description": "Contacts Pro organizes your address book with smart duplicate detection, custom groups, and detailed profiles that go beyond just a name and number. Backup and sync ensure your contacts are safe even if you switch devices, while quick-dial shortcuts and caller ID enhancements make everyday communication faster. Birthday reminders and social media integration help you stay connected with the people who matter most. A clean, searchable interface makes finding anyone in seconds.",
+    "size": 35,
+    "reviews": "23.2k",
+    "ratingAvg": 4.5,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 68
+      },
+      {
+        "name": "2 star",
+        "count": 379
+      },
+      {
+        "name": "3 star",
+        "count": 848
+      },
+      {
+        "name": "4 star",
+        "count": 3394
+      },
+      {
+        "name": "5 star",
+        "count": 10214
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app54/300/300",
+    "title": "Backup Pro",
+    "companyName": "BrightLabs",
+    "id": 54,
+    "description": "Backup Pro automatically safeguards your photos, contacts, and files with secure, encrypted cloud backups scheduled to run in the background. Restore your entire device in minutes after an upgrade or reset, and access backed-up files from any device with an internet connection. Selective backup options let you control exactly what's saved and how much storage you use. Reliable automated scheduling means protection happens without you having to think about it.",
+    "size": 40,
+    "reviews": "11.1k",
+    "ratingAvg": 4.2,
+    "downloads": "10M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 139
+      },
+      {
+        "name": "2 star",
+        "count": 117
+      },
+      {
+        "name": "3 star",
+        "count": 642
+      },
+      {
+        "name": "4 star",
+        "count": 1445
+      },
+      {
+        "name": "5 star",
+        "count": 10819
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app55/300/300",
+    "title": "Security Pro",
+    "companyName": "CloudNest",
+    "id": 55,
+    "description": "Security Pro provides comprehensive protection against malware, phishing attempts, and unsafe apps with real-time scanning and continuous background monitoring. App lock, Wi-Fi security checks, and anti-theft tools like remote lock and locate add extra layers of defense for your device. Regular threat database updates ensure you're protected against the latest risks. A simple dashboard gives you a clear overview of your device's security status at a glance.",
+    "size": 78,
+    "reviews": "11.3k",
+    "ratingAvg": 4.8,
+    "downloads": "1M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 230
+      },
+      {
+        "name": "2 star",
+        "count": 438
+      },
+      {
+        "name": "3 star",
+        "count": 437
+      },
+      {
+        "name": "4 star",
+        "count": 1135
+      },
+      {
+        "name": "5 star",
+        "count": 8025
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app56/300/300",
+    "title": "Health Pro",
+    "companyName": "NextWave",
+    "id": 56,
+    "description": "Health Pro brings together vital health metrics like heart rate, hydration, sleep, and activity into a single, easy-to-read dashboard. Set personalized health goals, track medication schedules, and receive gentle reminders to stay on top of daily wellness habits. Detailed trend charts help you and your healthcare provider spot patterns over time. A calm, encouraging design makes managing your health feel supportive rather than clinical.",
+    "size": 18,
+    "reviews": "20.0k",
+    "ratingAvg": 4.3,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 233
+      },
+      {
+        "name": "2 star",
+        "count": 328
+      },
+      {
+        "name": "3 star",
+        "count": 384
+      },
+      {
+        "name": "4 star",
+        "count": 3862
+      },
+      {
+        "name": "5 star",
+        "count": 6013
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app57/300/300",
+    "title": "AI Chat Pro",
+    "companyName": "DailyApps",
+    "id": 57,
+    "description": "AI Chat Pro is an intelligent conversational assistant that helps with everything from answering questions and brainstorming ideas to drafting messages and summarizing information. Natural, context-aware conversations make it feel less like a tool and more like a helpful collaborator. Save and organize past conversations for easy reference, and customize the assistant's tone to match your needs. It's designed to save time on everyday tasks while remaining approachable for first-time users.",
+    "size": 21,
+    "reviews": "6.8k",
+    "ratingAvg": 4.6,
+    "downloads": "500K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 272
+      },
+      {
+        "name": "2 star",
+        "count": 339
+      },
+      {
+        "name": "3 star",
+        "count": 596
+      },
+      {
+        "name": "4 star",
+        "count": 2466
+      },
+      {
+        "name": "5 star",
+        "count": 5844
+      }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/seed/app58/300/300",
+    "title": "OCR Pro",
+    "companyName": "NovaSoft",
+    "id": 58,
+    "description": "OCR Pro converts scanned documents and images into editable, searchable text with impressive accuracy across dozens of languages. Extract text from photos, PDFs, and handwritten notes, then export directly to your favorite word processor or notes app. Batch processing saves time when digitizing large stacks of documents, while built-in translation adds extra versatility. It's an essential tool for students, researchers, and professionals who work with a lot of printed material.",
+    "size": 64,
+    "reviews": "6.9k",
+    "ratingAvg": 4.8,
+    "downloads": "3M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 470
+      },
+      {
+        "name": "3 star",
+        "count": 452
+      },
+      {
+        "name": "4 star",
+        "count": 2074
+      },
+      {
+        "name": "5 star",
+        "count": 4122
+      }
+    ]
+  }
+]
