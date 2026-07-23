@@ -68,6 +68,7 @@ const AppsDetails = () => {
 
   return (
     <div className="mt-10 mb-10 p-10 ">
+      <title>{title}</title>
       <div className="flex gap-10  mb-7">
         <div className="border-2 border-gray-300 p-5 bg-gray-50">
           <img src={image} alt="" />

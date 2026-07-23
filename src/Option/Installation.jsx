@@ -47,6 +47,7 @@ const Installation = () => {
 
   return (
     <div>
+      <title>Hero App-Installation</title>
       <div className="text-center mt-10 mb-10">
         <h1 className="text-3xl font-bold mb-5">Installed Apps</h1>
         <p>Explore All Trending Apps on the Market developed by us</p>

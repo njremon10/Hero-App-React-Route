@@ -8,6 +8,7 @@ const Home = () => {
   // console.log(data)
   return (
     <div>
+      <title>Hero App-Home</title>
       <Banner></Banner>
       <div className="text-center mt-10 mb-10">
         <h1 className="font-bold text-4xl mb-2">Trending Apps</h1>

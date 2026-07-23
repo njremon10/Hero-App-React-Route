@@ -17,6 +17,7 @@ const Apps = () => {
 
   return (
     <div className="mb-10">
+      <title>Hero App-Apps</title>
       <div className="text-center">
         <h1 className="font-bold text-4xl mt-5 mb-3">Our All Applications</h1>
         <p>

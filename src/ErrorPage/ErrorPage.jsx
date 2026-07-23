@@ -6,6 +6,7 @@ const ErrorPage = () => {
   const navigate = useNavigate();
   return (
     <div>
+      <title>Error-404</title>
       <img className="mx-auto" src={errorImg} alt="" />
       <div className="text-center mt-10">
         <h1 className="font-bold text-4xl ">Oops, page not found!</h1>
